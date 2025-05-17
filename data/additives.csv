@@ -1,0 +1,314 @@
+E_number,name,class
+E 100,kurkumin,barvila
+E 101,riboflavini,barvila
+E 102,tartrazin,barvila
+E 104,kinolinsko rumeno,barvila
+E 110,"sončno rumeno FCF, oranžno rumeno S",barvila
+E 120,"karminska kislina, karmin",barvila
+E 122,"azorubin, karmoizin",barvila
+E 123,amarant,barvila
+E 124,"rdeče 4R, košenil rdeče A",barvila
+E 127,eritrozin,barvila
+E 129,alura rdeče AC,barvila
+E 131,patentno modro V,barvila
+E 132,"indigotin, indigo karmin",barvila
+E 133,briljantno modro FCF,barvila
+E 140,klorofili in klorofilini,barvila
+E 141,bakrovi kompleksi klorofilov in klorofilinov,barvila
+E 142,zeleno S,barvila
+E 150a,karamel (1),barvila
+E 150b,alkalno sulfitni karamel,barvila
+E 150c,amonijev karamel,barvila
+E 150d,amonijev sulfitni karamel,barvila
+E 151,briljantno črno PN,barvila
+E 153,rastlinsko oglje,barvila
+E 155,rjavo HT,barvila
+E 160a,karoteni,barvila
+E 160b(i),anato biksin,barvila
+E 160b(ii),anato norbiksin,barvila
+E 160c,"izvleček paprike, kapsantin, kapsorubin",barvila
+E 160d,likopen,barvila
+E 160e,beta-apo-8'-karotenal (C30),barvila
+E 161b,lutein,barvila
+E 161g,kantaksantin (*1),barvila
+E 162,"betalain, betanin",barvila
+E 163,antocianini,barvila
+E 170,kalcijev karbonat,barvila
+E 171,titanov dioksid,barvila
+E 172,železovi oksidi in hidroksidi,barvila
+E 173,aluminij,barvila
+E 174,srebro,barvila
+E 175,zlato,barvila
+E 180,litolrubin BK,barvila
+E 200,sorbinska kislina,konzervans
+E 202,kalijev sorbat,konzervans
+E 210,benzojska kislina (1),konzervans
+E 211,natrijev benzoat (1),konzervans
+E 212,kalijev benzoat (1),konzervans
+E 213,kalcijev benzoat (1),konzervans
+E 214,etil parahidroksi benzoat,konzervans
+E 215,natrijev etil parahidroksi benzoat,konzervans
+E 218,metil parahidroksi benzoat,konzervans
+E 219,natrijev metil parahidroksi benzoat,konzervans
+E 220,žveplov dioksid,konzervans
+E 221,natrijev sulfit,konzervans
+E 222,natrijev hidrogensulfit,konzervans
+E 223,natrijev metabisulfit,konzervans
+E 224,kalijev metabisulfit,konzervans
+E 226,kalcijev sulfit,konzervans
+E 227,kalcijev hidrogensulfit,konzervans
+E 228,kalijev hidrogensulfit,konzervans
+E 234,nizin,konzervans
+E 235,natamicin,konzervans
+E 239,heksametilen-tetramin,konzervans
+E 242,dimetildikarbonat,konzervans
+E 243,etil lavroil arginat,konzervans
+E 249,kalijev nitrit,konzervans
+E 250,natrijev nitrit,konzervans
+E 251,natrijev nitrat,konzervans
+E 252,kalijev nitrat,konzervans
+E 260,ocetna kislina,konzervans
+E 261,kalijevi acetati (4),konzervans
+E 262,natrijevi acetati,konzervans
+E 263,kalcijev acetat,konzervans
+E 270,mlečna kislina,konzervans
+E 280,propionska kislina,konzervans
+E 281,natrijev propionat,konzervans
+E 282,kalcijev propionat,konzervans
+E 283,kalijev propionat,konzervans
+E 284,borova kislina,konzervans
+E 285,boraks,konzervans
+E 290,ogljikov dioksid,konzervans
+E 296,jabolčna kislina,konzervans
+E 297,fumarna kislina,konzervans
+E 300,askorbinska kislina,antioksidanti in regulatorji kislosti
+E 301,natrijev askorbat,antioksidanti in regulatorji kislosti
+E 302,kalcijev askorbat,antioksidanti in regulatorji kislosti
+E 304,estri askorbinske kisline z maščobnimi kislinami,antioksidanti in regulatorji kislosti
+E 306,"izvleček, bogat s tokoferolom",antioksidanti in regulatorji kislosti
+E 307,alfa tokoferol,antioksidanti in regulatorji kislosti
+E 308,gama tokoferol,antioksidanti in regulatorji kislosti
+E 309,delta tokoferol,antioksidanti in regulatorji kislosti
+E 310,propilgalat,antioksidanti in regulatorji kislosti
+E 315,eritorbinska kislina,antioksidanti in regulatorji kislosti
+E 316,natrijev eritorbat,antioksidanti in regulatorji kislosti
+E 319,terc-butilhidrokinon (TBHQ),antioksidanti in regulatorji kislosti
+E 320,butilhidroksianizol (BHA),antioksidanti in regulatorji kislosti
+E 321,butilhidroksitoluen (BHT),antioksidanti in regulatorji kislosti
+E 322,lecitini,antioksidanti in regulatorji kislosti
+E 325,natrijev laktat,antioksidanti in regulatorji kislosti
+E 326,kalijev laktat,antioksidanti in regulatorji kislosti
+E 327,kalcijev laktat,antioksidanti in regulatorji kislosti
+E 330,citronska kislina,antioksidanti in regulatorji kislosti
+E 331,natrijevi citrati,antioksidanti in regulatorji kislosti
+E 332,kalijevi citrati,antioksidanti in regulatorji kislosti
+E 333,kalcijevi citrati,antioksidanti in regulatorji kislosti
+E 334,vinska kislina (L (+) - ),antioksidanti in regulatorji kislosti
+E 335,natrijevi tartrati,antioksidanti in regulatorji kislosti
+E 336,kalijevi tartrati,antioksidanti in regulatorji kislosti
+E 337,natrijev kalijev tartrat,antioksidanti in regulatorji kislosti
+E 338,fosforjeva (V) kislina,antioksidanti in regulatorji kislosti
+E 339,natrijevi fosfati,antioksidanti in regulatorji kislosti
+E 340,kalijevi fosfati,antioksidanti in regulatorji kislosti
+E 341,kalcijevi fosfati,antioksidanti in regulatorji kislosti
+E 343,magnezijevi fosfati,antioksidanti in regulatorji kislosti
+E 350,natrijevi malati,antioksidanti in regulatorji kislosti
+E 351,kalijev malat,antioksidanti in regulatorji kislosti
+E 352,kalcijevi malati,antioksidanti in regulatorji kislosti
+E 353,metavinska kislina,antioksidanti in regulatorji kislosti
+E 354,kalcijev tartrat,antioksidanti in regulatorji kislosti
+E 355,adipinska kislina,antioksidanti in regulatorji kislosti
+E 356,natrijev adipat,antioksidanti in regulatorji kislosti
+E 357,kalijev adipat,antioksidanti in regulatorji kislosti
+E 363,jantarna kislina,antioksidanti in regulatorji kislosti
+E 380,triamonijev citrat,antioksidanti in regulatorji kislosti
+E 385,kalcijev dinatrijev etilendiamintetra acetat (kalcijev dinatrijev EDTA),antioksidanti in regulatorji kislosti
+E 392,izvlečki rožmarina,antioksidanti in regulatorji kislosti
+E 400,alginska kislina,"emulgatorji, stabilizatorji, zgoščevalci"
+E 401,natrijev alginat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 402,kalijev alginat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 403,amonijev alginat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 404,kalcijev alginat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 405,"propan-1,2-diol alginat","emulgatorji, stabilizatorji, zgoščevalci"
+E 406,agar,"emulgatorji, stabilizatorji, zgoščevalci"
+E 407a,predelana morska alga eucheuma,"emulgatorji, stabilizatorji, zgoščevalci"
+E 407,karagenan,"emulgatorji, stabilizatorji, zgoščevalci"
+E 410,gumi iz zrn rožičevca,"emulgatorji, stabilizatorji, zgoščevalci"
+E 412,guar gumi,"emulgatorji, stabilizatorji, zgoščevalci"
+E 413,tragakant,"emulgatorji, stabilizatorji, zgoščevalci"
+E 414,gumi arabikum (akacijeva guma),"emulgatorji, stabilizatorji, zgoščevalci"
+E 415,ksantan gumi,"emulgatorji, stabilizatorji, zgoščevalci"
+E 416,karaja gumi,"emulgatorji, stabilizatorji, zgoščevalci"
+E 417,tara gumi,"emulgatorji, stabilizatorji, zgoščevalci"
+E 418,gelanski gumi,"emulgatorji, stabilizatorji, zgoščevalci"
+E 422,glicerol,"emulgatorji, stabilizatorji, zgoščevalci"
+E 423,"gumi arabikum, modificiran z oktenil sukcinsko kislino","emulgatorji, stabilizatorji, zgoščevalci"
+E 425,konjac,"emulgatorji, stabilizatorji, zgoščevalci"
+E 426,hemiceluloza iz soje,"emulgatorji, stabilizatorji, zgoščevalci"
+E 427,gumi kasijevca,"emulgatorji, stabilizatorji, zgoščevalci"
+E 431,polioksietilen (40) stearat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 432,polioksietilen sorbitan monolaurat (polisorbat 20),"emulgatorji, stabilizatorji, zgoščevalci"
+E 433,polioksietilen sorbitan monooleat (polisorbat 80),"emulgatorji, stabilizatorji, zgoščevalci"
+E 434,polioksietilen sorbitan monopalmitat (polisorbat 40),"emulgatorji, stabilizatorji, zgoščevalci"
+E 435,polioksietilen sorbitan monostearat (polisorbat 60),"emulgatorji, stabilizatorji, zgoščevalci"
+E 436,polioksietilen sorbitan tristearat (polisorbat 65),"emulgatorji, stabilizatorji, zgoščevalci"
+E 440,pektini,"emulgatorji, stabilizatorji, zgoščevalci"
+E 442,amonijevi fosfatidi,"emulgatorji, stabilizatorji, zgoščevalci"
+E 444,saharozni acetat izobutirat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 445,glicerolni estri lesnih smol,"emulgatorji, stabilizatorji, zgoščevalci"
+E 450,difosfati,"emulgatorji, stabilizatorji, zgoščevalci"
+E 451,trifosfati,"emulgatorji, stabilizatorji, zgoščevalci"
+E 452,polifosfati,"emulgatorji, stabilizatorji, zgoščevalci"
+E 456,kalijev poliaspartat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 459,beta ciklodekstrin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 460,celuloza,"emulgatorji, stabilizatorji, zgoščevalci"
+E 461,metilceluloza,"emulgatorji, stabilizatorji, zgoščevalci"
+E 462,etilceluloza,"emulgatorji, stabilizatorji, zgoščevalci"
+E 463,hidroksipropil celuloza,"emulgatorji, stabilizatorji, zgoščevalci"
+E 463a,nizkosubstituirana hidroksipropil celuloza (L-HPC),"emulgatorji, stabilizatorji, zgoščevalci"
+E 464,hidroksipropilmetil celuloza,"emulgatorji, stabilizatorji, zgoščevalci"
+E 465,etilmetil celuloza,"emulgatorji, stabilizatorji, zgoščevalci"
+E 466,"natrijeva karboksimetil celuloza, celulozni gumi","emulgatorji, stabilizatorji, zgoščevalci"
+E 468,"zamrežena natrijeva karboksimetil celuloza, zamrežen celulozni gumi","emulgatorji, stabilizatorji, zgoščevalci"
+E 469,encimsko hidrolizirana karboksimetil celuloza,"emulgatorji, stabilizatorji, zgoščevalci"
+E 470a,"natrijeve, kalijeve in kalcijeve soli maščobnih kislin","emulgatorji, stabilizatorji, zgoščevalci"
+E 470b,magnezijeve soli maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 471,mono- in digliceridi maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 472a,acetatni estri mono- in digliceridov maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 472b,laktatni estri mono- in digliceridov maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 472c,citratni estri mono- in digliceridov maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 472d,tartratni estri mono- in digliceridov maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 472e,tartratni mono- in diacetilestri mono- in digliceridov maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 472f,mešanica acetatnih in tartratnih estrov mono- in digliceridov maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 473,saharozni estri maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 474,saharozni gliceridi,"emulgatorji, stabilizatorji, zgoščevalci"
+E 475,poliglicerolni estri maščobnih kislin,"emulgatorji, stabilizatorji, zgoščevalci"
+E 476,poliglicerol poliricinoleat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 477,"propan 1,2-diolni estri maščobnih kislin","emulgatorji, stabilizatorji, zgoščevalci"
+E 479b,"toplotno oksidirano sojino olje, v interakciji z mono- in digliceridi maščobnih kislin","emulgatorji, stabilizatorji, zgoščevalci"
+E 481,natrijev stearoil-2-laktilat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 482,kalcijev stearoil-2-laktilat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 483,stearil tartrat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 491,sorbitan monostearat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 492,sorbitan tristearat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 493,sorbitan monolaurat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 494,sorbitan monooleat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 495,sorbitan monopalmitat,"emulgatorji, stabilizatorji, zgoščevalci"
+E 499,"rastlinski steroli, bogati s stigmasterolom","emulgatorji, stabilizatorji, zgoščevalci"
+E 500,natrijevi karbonati,regulatorji kislosti in sredstva za vzhajanje
+E 501,kalijevi karbonati,regulatorji kislosti in sredstva za vzhajanje
+E 503,amonijevi karbonati,regulatorji kislosti in sredstva za vzhajanje
+E 504,magnezijevi karbonati,regulatorji kislosti in sredstva za vzhajanje
+E 507,klorovodikova kislina,regulatorji kislosti in sredstva za vzhajanje
+E 508,kalijev klorid,regulatorji kislosti in sredstva za vzhajanje
+E 509,kalcijev klorid,regulatorji kislosti in sredstva za vzhajanje
+E 511,magnezijev klorid,regulatorji kislosti in sredstva za vzhajanje
+E 512,kositrov (II) klorid,regulatorji kislosti in sredstva za vzhajanje
+E 513,žveplova (VI) kislina,regulatorji kislosti in sredstva za vzhajanje
+E 514,natrijevi sulfati,regulatorji kislosti in sredstva za vzhajanje
+E 515,kalijevi sulfati,regulatorji kislosti in sredstva za vzhajanje
+E 516,kalcijev sulfat,regulatorji kislosti in sredstva za vzhajanje
+E 517,amonijev sulfat,regulatorji kislosti in sredstva za vzhajanje
+E 520,aluminijev sulfat,regulatorji kislosti in sredstva za vzhajanje
+E 521,natrijev aluminijev sulfat,regulatorji kislosti in sredstva za vzhajanje
+E 522,kalijev aluminijev sulfat,regulatorji kislosti in sredstva za vzhajanje
+E 523,amonijev aluminijev sulfat,regulatorji kislosti in sredstva za vzhajanje
+E 524,natrijev hidroksid,regulatorji kislosti in sredstva za vzhajanje
+E 525,kalijev hidroksid,regulatorji kislosti in sredstva za vzhajanje
+E 526,kalcijev hidroksid,regulatorji kislosti in sredstva za vzhajanje
+E 527,amonijev hidroksid,regulatorji kislosti in sredstva za vzhajanje
+E 528,magnezijev hidroksid,regulatorji kislosti in sredstva za vzhajanje
+E 529,kalcijev oksid,regulatorji kislosti in sredstva za vzhajanje
+E 530,magnezijev oksid,regulatorji kislosti in sredstva za vzhajanje
+E 534,železov tartrat,regulatorji kislosti in sredstva za vzhajanje
+E 535,natrijev ferocianid,regulatorji kislosti in sredstva za vzhajanje
+E 536,kalijev ferocianid,regulatorji kislosti in sredstva za vzhajanje
+E 538,kalcijev ferocianid,regulatorji kislosti in sredstva za vzhajanje
+E 541,"natrijev aluminijev fosfat, kisli",regulatorji kislosti in sredstva za vzhajanje
+E 551,silicijev dioksid,regulatorji kislosti in sredstva za vzhajanje
+E 552,kalcijev silikat,regulatorji kislosti in sredstva za vzhajanje
+E 553a,magnezijevi silikati,regulatorji kislosti in sredstva za vzhajanje
+E 553b,smukec,regulatorji kislosti in sredstva za vzhajanje
+E 554,natrijev aluminijev silikat,regulatorji kislosti in sredstva za vzhajanje
+E 555,kalijev aluminijev silikat,regulatorji kislosti in sredstva za vzhajanje
+E 556,kalcijev aluminijev silikat (2),regulatorji kislosti in sredstva za vzhajanje
+E 558,bentonit (3),regulatorji kislosti in sredstva za vzhajanje
+E 559,aluminijev silikat (kaolin) (2),regulatorji kislosti in sredstva za vzhajanje
+E 570,maščobne kisline,regulatorji kislosti in sredstva za vzhajanje
+E 574,glukonska kislina,regulatorji kislosti in sredstva za vzhajanje
+E 575,glukonodelta lakton,regulatorji kislosti in sredstva za vzhajanje
+E 576,natrijev glukonat,regulatorji kislosti in sredstva za vzhajanje
+E 577,kalijev glukonat,regulatorji kislosti in sredstva za vzhajanje
+E 578,kalcijev glukonat,regulatorji kislosti in sredstva za vzhajanje
+E 579,železov (II) glukonat,regulatorji kislosti in sredstva za vzhajanje
+E 585,železov (II) laktat,regulatorji kislosti in sredstva za vzhajanje
+E 586,4-heksilresorcinol,regulatorji kislosti in sredstva za vzhajanje
+E 620,glutaminska kislina,ojačevalci okusa
+E 621,mononatrijev glutamat,ojačevalci okusa
+E 622,monokalijev glutamat,ojačevalci okusa
+E 623,kalcijev diglutamat,ojačevalci okusa
+E 624,monoamonijev glutamat,ojačevalci okusa
+E 625,magnezijev diglutamat,ojačevalci okusa
+E 626,gvanilna kislina,ojačevalci okusa
+E 627,dinatrijev gvanilat,ojačevalci okusa
+E 628,dikalijev gvanilat,ojačevalci okusa
+E 629,kalcijev gvanilat,ojačevalci okusa
+E 630,inozinska kislina,ojačevalci okusa
+E 631,dinatrijev inozinat,ojačevalci okusa
+E 632,dikalijev inozinat,ojačevalci okusa
+E 633,kalcijev inozinat,ojačevalci okusa
+E 634,kalcijevi 5'-ribonukleotidi,ojačevalci okusa
+E 635,dinatrijevi 5'-ribonukleotidi,ojačevalci okusa
+E 640,glicin in njegova natrijeva sol,ojačevalci okusa
+E 641,L-levcin,ojačevalci okusa
+E 650,cinkov acetat,ojačevalci okusa
+E 900,dimetilpolisiloksan,"penila, sredstva za ločevanje, sladila"
+E 901,"čebelji vosek, beli in rumeni","penila, sredstva za ločevanje, sladila"
+E 902,kandelilni vosek,"penila, sredstva za ločevanje, sladila"
+E 903,karnauba vosek,"penila, sredstva za ločevanje, sladila"
+E 904,šelak,"penila, sredstva za ločevanje, sladila"
+E 905,mikrokristalni vosek,"penila, sredstva za ločevanje, sladila"
+E 907,hidrogenirani poli-1-decen,"penila, sredstva za ločevanje, sladila"
+E 914,oksidiran polietilenski vosek,"penila, sredstva za ločevanje, sladila"
+E 920,L-cistein,"penila, sredstva za ločevanje, sladila"
+E 927b,karbamid,"penila, sredstva za ločevanje, sladila"
+E 938,argon,"penila, sredstva za ločevanje, sladila"
+E 939,helij,"penila, sredstva za ločevanje, sladila"
+E 941,dušik,"penila, sredstva za ločevanje, sladila"
+E 942,dušikov (I) oksid,"penila, sredstva za ločevanje, sladila"
+E 943a,butan,"penila, sredstva za ločevanje, sladila"
+E 943b,izobutan,"penila, sredstva za ločevanje, sladila"
+E 944,propan,"penila, sredstva za ločevanje, sladila"
+E 948,kisik,"penila, sredstva za ločevanje, sladila"
+E 949,vodik,"penila, sredstva za ločevanje, sladila"
+E 999,izvleček Quillaia,"penila, sredstva za ločevanje, sladila"
+E 1103,invertaza,/
+E 1105,lizocim,/
+E 1200,polidekstroza,/
+E 1201,polivinilpirolidon,/
+E 1202,polivinilpolipirolidon,/
+E 1203,polivinil alkohol (PVA),/
+E 1204,pululan,/
+E 1205,osnovni kopolimer metakrilata,/
+E 1206,nevtralni kopolimer metakrilata,/
+E 1207,anionski kopolimer metakrilata,/
+E 1208,kopolimer polivinilpirolidon-vinil acetata,/
+E 1209,polivinil alkohol-polietilen glikol-graft-kopolimer,/
+E 1404,oksidirani škrob,/
+E 1410,monoškrobni fosfat,/
+E 1412,diškrobni fosfat,/
+E 1413,fosforiliran diškrobni fosfat,/
+E 1414,acetiliran diškrobni fosfat,/
+E 1420,acetilirani škrob,/
+E 1422,acetiliran diškrobni adipat,/
+E 1440,hidroksipropil škrob,/
+E 1442,hidroksipropil diškrobni fosfat,/
+E 1450,natrijev oktenilsukcinat škroba,/
+E 1451,acetiliran oksidiran škrob,/
+E 1452,aluminijev oktenil sukcinat škroba,/
+E 1505,trietilcitrat,/
+E 1517,glicerildiacetat (diacetin),/
+E 1518,gliceriltriacetat (triacetin),/
+E 1519,benzil alkohol,/
+E 1520,"propan-1,2-diol (propilenglikol)",/
+E 1521,polietilenglikol,/ 
